@@ -2,10 +2,19 @@
   "standard": [
     {
       "version": 1,
-      "characters": ["qigi", "keqing", "diluc", "mona", "jean"],
+      "characters": [
+        "lazarus_carlos",
+        "ahmad_bin_ali",
+        "siti_nurhaliza",
+        "tan_wei_ming",
+        "aisyah_binti_osman",
+        "rajesh_kumar",
+        "chin_lee_peng",
+        "muhammad_danish"
+      ],
       "featured": {
         "bannerName": "Classroom 4B 4A",
-        "character": "Lazarus Carlos"
+        "character": "lazarus_carlos"
       }
     }
   ]
