@@ -27,6 +27,64 @@
         "wishCard": { "x": 0, "y": 0, "scale": 1 },
         "button": { "w": 110, "t": 35, "l": 50 }
       }
+    },
+    "siti_nurhaliza": {
+      "itemID": 20000003,
+      "name": "Siti Nurhaliza",
+      "vision": "hydro",
+      "rarity": 5,
+      "weaponType": "catalyst",
+      "offset": { "splashArt": { "x": 0, "y": 0, "scale": 1 }, "wishCard": { "x": 0, "y": 0, "scale": 1 }, "button": { "w": 110, "t": 35, "l": 50 } }
+    },
+    "tan_wei_ming": {
+      "itemID": 20000004,
+      "name": "Tan Wei Ming",
+      "vision": "cryo",
+      "rarity": 5,
+      "weaponType": "polearm",
+      "offset": { "splashArt": { "x": 0, "y": 0, "scale": 1 }, "wishCard": { "x": 0, "y": 0, "scale": 1 }, "button": { "w": 110, "t": 35, "l": 50 } }
+    },
+    "aisyah_binti_osman": {
+      "itemID": 20000005,
+      "name": "Aisyah Binti Osman",
+      "vision": "electro",
+      "rarity": 5,
+      "weaponType": "bow",
+      "offset": { "splashArt": { "x": 0, "y": 0, "scale": 1 }, "wishCard": { "x": 0, "y": 0, "scale": 1 }, "button": { "w": 110, "t": 35, "l": 50 } }
+    },
+    "rajesh_kumar": {
+      "itemID": 20000006,
+      "name": "Rajesh Kumar",
+      "vision": "geo",
+      "rarity": 5,
+      "weaponType": "sword",
+      "offset": { "splashArt": { "x": 0, "y": 0, "scale": 1 }, "wishCard": { "x": 0, "y": 0, "scale": 1 }, "button": { "w": 110, "t": 35, "l": 50 } }
+    },
+    "chin_lee_peng": {
+      "itemID": 20000007,
+      "name": "Chin Lee Peng",
+      "vision": "dendro",
+      "rarity": 5,
+      "weaponType": "catalyst",
+      "offset": { "splashArt": { "x": 0, "y": 0, "scale": 1 }, "wishCard": { "x": 0, "y": 0, "scale": 1 }, "button": { "w": 110, "t": 35, "l": 50 } }
+    },
+    "muhammad_danish": {
+      "itemID": 20000008,
+      "name": "Muhammad Danish",
+      "vision": "pyro",
+      "rarity": 5,
+      "weaponType": "claymore",
+      "offset": { "splashArt": { "x": 0, "y": 0, "scale": 1 }, "wishCard": { "x": 0, "y": 0, "scale": 1 }, "button": { "w": 110, "t": 35, "l": 50 } }
     }
-  }
+  },
+  "onlyStandard": [
+    "lazarus_carlos",
+    "ahmad_bin_ali",
+    "siti_nurhaliza",
+    "tan_wei_ming",
+    "aisyah_binti_osman",
+    "rajesh_kumar",
+    "chin_lee_peng",
+    "muhammad_danish"
+  ]
 }
