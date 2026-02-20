@@ -1,82 +1,76 @@
 {
-  "data": {
-    "lazarus_carlos": {
+  "data": [
+    {
       "itemID": 20000001,
-      "name": "Lazarus Carlos",
+      "name": "lazarus_carlos",
       "vision": "anemo",
       "rarity": 5,
       "weaponType": "sword",
       "origin": "Classroom 4B",
-      "release": "1.0",
       "offset": {
         "splashArt": { "x": 0, "y": 0, "scale": 1 },
         "wishCard": { "x": 0, "y": 0, "scale": 1 },
         "button": { "w": 110, "t": 35, "l": 50 }
       }
     },
-    "ahmad_bin_ali": {
+    {
       "itemID": 20000002,
-      "name": "Ahmad Bin Ali",
+      "name": "ahmad_bin_ali",
       "vision": "pyro",
       "rarity": 5,
       "weaponType": "claymore",
       "origin": "Classroom 4B",
-      "release": "1.0",
-      "offset": {
-        "splashArt": { "x": 0, "y": 0, "scale": 1 },
-        "wishCard": { "x": 0, "y": 0, "scale": 1 },
-        "button": { "w": 110, "t": 35, "l": 50 }
-      }
+      "offset": { "splashArt": { "x": 0, "y": 0, "scale": 1 }, "wishCard": { "x": 0, "y": 0, "scale": 1 }, "button": { "w": 110, "t": 35, "l": 50 } }
     },
-    "siti_nurhaliza": {
+    {
       "itemID": 20000003,
-      "name": "Siti Nurhaliza",
+      "name": "siti_nurhaliza",
       "vision": "hydro",
       "rarity": 5,
       "weaponType": "catalyst",
       "offset": { "splashArt": { "x": 0, "y": 0, "scale": 1 }, "wishCard": { "x": 0, "y": 0, "scale": 1 }, "button": { "w": 110, "t": 35, "l": 50 } }
     },
-    "tan_wei_ming": {
+    {
       "itemID": 20000004,
-      "name": "Tan Wei Ming",
+      "name": "tan_wei_ming",
       "vision": "cryo",
       "rarity": 5,
       "weaponType": "polearm",
       "offset": { "splashArt": { "x": 0, "y": 0, "scale": 1 }, "wishCard": { "x": 0, "y": 0, "scale": 1 }, "button": { "w": 110, "t": 35, "l": 50 } }
     },
-    "aisyah_binti_osman": {
+    {
       "itemID": 20000005,
-      "name": "Aisyah Binti Osman",
+      "name": "aisyah_binti_osman",
       "vision": "electro",
       "rarity": 5,
       "weaponType": "bow",
       "offset": { "splashArt": { "x": 0, "y": 0, "scale": 1 }, "wishCard": { "x": 0, "y": 0, "scale": 1 }, "button": { "w": 110, "t": 35, "l": 50 } }
     },
-    "rajesh_kumar": {
+    {
       "itemID": 20000006,
-      "name": "Rajesh Kumar",
+      "name": "rajesh_kumar",
       "vision": "geo",
       "rarity": 5,
       "weaponType": "sword",
       "offset": { "splashArt": { "x": 0, "y": 0, "scale": 1 }, "wishCard": { "x": 0, "y": 0, "scale": 1 }, "button": { "w": 110, "t": 35, "l": 50 } }
     },
-    "chin_lee_peng": {
+    {
       "itemID": 20000007,
-      "name": "Chin Lee Peng",
+      "name": "chin_lee_peng",
       "vision": "dendro",
       "rarity": 5,
       "weaponType": "catalyst",
       "offset": { "splashArt": { "x": 0, "y": 0, "scale": 1 }, "wishCard": { "x": 0, "y": 0, "scale": 1 }, "button": { "w": 110, "t": 35, "l": 50 } }
     },
-    "muhammad_danish": {
+    {
       "itemID": 20000008,
-      "name": "Muhammad Danish",
+      "name": "muhammad_danish",
       "vision": "pyro",
       "rarity": 5,
       "weaponType": "claymore",
       "offset": { "splashArt": { "x": 0, "y": 0, "scale": 1 }, "wishCard": { "x": 0, "y": 0, "scale": 1 }, "button": { "w": 110, "t": 35, "l": 50 } }
     }
-  },
+  ],
   "onlyStandard": [
     "lazarus_carlos",
     "ahmad_bin_ali",
